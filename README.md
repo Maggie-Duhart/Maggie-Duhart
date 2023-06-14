@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maggie (she/her)</h1>
-<h3 align="center">
+<h3 align="left">
   A passionate front-end developer with a strong focus on creating engaging and user-friendly experiences. <br>
   💼 With expertise in HTML, CSS, and JavaScript, I deliver clean and efficient code that follows best practices. <br>
   💡 I thrive on problem-solving and enjoy finding innovative solutions to complex challenges. <br>
