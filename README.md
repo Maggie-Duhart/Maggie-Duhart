@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Maggie (she/her)</h1>
-<h3 align="center">A passionate a passionate front-end developer with a strong focus on creating engaging and user-friendly experiences. 💼 With expertise in HTML, CSS, and JavaScript, I deliver clean and efficient code that follows best practices. 💡 I thrive on problem-solving and enjoy finding innovative solutions to complex challenges. 🔨 Alongside my technical skills, I have a keen eye for design and a strong understanding of UX principles. 🌟 Seeking opportunities to contribute my skills and passion to front-end projects. ✉️ Let's connect and discuss how we can collaborate on exciting web development ventures.</h3>
+<h3 align="center">
+  A passionate front-end developer with a strong focus on creating engaging and user-friendly experiences. <br>
+  💼 With expertise in HTML, CSS, and JavaScript, I deliver clean and efficient code that follows best practices. <br>
+  💡 I thrive on problem-solving and enjoy finding innovative solutions to complex challenges. <br>
+  🔨 Alongside my technical skills, I have a keen eye for design and a strong understanding of UX principles. <br>
+  🌟 Seeking opportunities to contribute my skills and passion to front-end projects. <br>
+  ✉️ Let's connect and discuss how we can collaborate on exciting web development ventures.
+</h3>
 
 - 📫 How to reach me **magdalena.duhart@gmail.com**
 
