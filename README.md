@@ -5,7 +5,7 @@
   💡 I thrive on problem-solving and enjoy finding innovative solutions to complex challenges. <br>
   🔨 Alongside my technical skills, I have a keen eye for design and a strong understanding of UX principles. <br>
   🌟 Seeking opportunities to contribute my skills and passion to front-end projects. <br>
-  ✉️ Let's connect and discuss how we can collaborate on exciting web development ventures.
+  ✉️ Let's connect and discuss how we can collaborate on exciting development ventures.
 </h3>
 
 - 📫 How to reach me **magdalena.duhart@gmail.com**
