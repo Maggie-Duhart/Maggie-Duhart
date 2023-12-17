@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maggie (she/her)</h1>
 <h3 align="left">
-🚀 Aspiring Technical Director (TD) and Tool Maker with a passion for the dynamic worlds of VFX, Animation, and beyond. 
+🚀 Aspiring Technical Director (TD) and Tool Maker with a passion for the dynamic worlds of VFX, Animation, and beyond.<br> 
 ⌛ Currently developing my skills in Python, with hands-on exploration of Houdini and Maya.<br>
 💡 Dedicated to creating immersive digital experiences through code and innovative problem-solving.<br>
 👨‍💻 Actively learning and experimenting to bridge the gap between technology and visual storytelling across diverse industries.<br>
