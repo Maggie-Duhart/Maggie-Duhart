@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Maggie (she/her)</h1>
 <h3 align="left">
-  A passionate developer with a strong focus on creating engaging and user-friendly experiences. <br>
-  💼 With expertise in HTML, CSS, and JavaScript, I deliver clean and efficient code that follows best practices. <br>
-  💡 I thrive on problem-solving and enjoy finding innovative solutions to complex challenges. <br>
-  🔨 Alongside my technical skills, I have a keen eye for design and a strong understanding of UX principles. <br>
-  🌟 Seeking opportunities to contribute my skills and passion to front-end projects. <br>
-  ✉️ Let's connect and discuss how we can collaborate on exciting development ventures.
+🚀 Aspiring Technical Director (TD) and Tool Maker with a passion for the dynamic worlds of VFX, Animation, and beyond. Currently honing my skills in Python, with hands-on exploration of Houdini and Maya.<br>
+💡 Dedicated to creating immersive digital experiences through code and innovative problem-solving.<br>
+👨‍💻 Actively learning and experimenting to bridge the gap between technology and visual storytelling across diverse industries.<br>
+🔧 Committed to developing tools that enhance efficiency and unleash the full potential of the creative process, whether in film, gaming, design, or beyond.<br>
+🎨 Embracing the fusion of technical prowess with a keen eye for design to craft visually stunning and technically robust solutions for various creative endeavors.<br>
+🌟 Seeking mentorship and collaboration opportunities to delve deeper into the realm of VFX/Animation and contribute to groundbreaking projects across a spectrum of industries.<br>
+✉️ Let's connect and discuss how I can bring my emerging skills and enthusiasm to your dynamic team or project, be it in VFX, Animation, or another exciting creative domain.
 </h3>
 
 - 📫 How to reach me **magdalena.duhart@gmail.com**
