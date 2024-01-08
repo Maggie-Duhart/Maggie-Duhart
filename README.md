@@ -11,7 +11,6 @@
 </h3>
 
 - 📫 How to reach me **magdalena.duhart@gmail.com**
-- 💼 My portfolio  **https://maggie-duhart.github.io/mduhart.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
